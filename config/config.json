@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "djamware",
+    "password": "dj@mw@r3",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "djamware",
+    "password": "dj@mw@r3",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "djamware",
+    "password": "dj@mw@r3",
+    "database": "express_oauth2",
+    "host": "127.0.0.1",
+    "port": "5432",
+    "dialect": "postgres"
+  }
+}
